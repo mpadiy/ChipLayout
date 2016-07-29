@@ -5,6 +5,7 @@ ChipLayout
 ==========
 
 ChipLayout is an opensource Android library. ChipLayout is an layout which create chips from the text you type and also allow you to show drop down(like MultiautocompleteTextView)
+EditText 实现 Tag 输入和快速选择功能 
 
 Example
 -------
